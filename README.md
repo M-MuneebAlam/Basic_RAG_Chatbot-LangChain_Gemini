@@ -1,5 +1,4 @@
- ```markdown
-# LangChain Basic RAG System
+ # LangChain Basic RAG System
 
 This repository contains a Jupyter Notebook for building a basic **Retrieval-Augmented Generation (RAG)** system using the LangChain framework. The notebook demonstrates how to integrate large language models with external data retrieval for enhanced query responses.
 
