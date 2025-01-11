@@ -1,0 +1,12 @@
+# Ignore myenv
+myenv/
+
+# Ignore .env file
+.env
+
+# Ignore the content folder
+content/
+
+# Ignore other common files
+*.log
+*.tmp
