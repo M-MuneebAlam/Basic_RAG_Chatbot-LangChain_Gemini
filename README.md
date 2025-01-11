@@ -22,17 +22,8 @@ This repository contains a Jupyter Notebook for building a basic **Retrieval-Aug
    cd langchain-basic-rag
    ```
 
-2. Install required libraries:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Open and run the notebook:
+2. Open and run the notebook:
    ```bash
    jupyter notebook Project2_LangChain_Basic_RAG_System.ipynb
    ```
-
-## License
-
-This project is licensed under the MIT License.
-```  
+ 
